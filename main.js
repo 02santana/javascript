@@ -16,6 +16,6 @@ let areaTriangulo=function(base,altura){
 console.log(areaTriangulo(5,5));
 
 let areaTrapezio=function(basemaior,basemenor,altura){
-return {(basemaior+basemenor)*altura}/2;
+return (basemaior+basemenor)*altura/2;
 }
 console.log(areaTrapezio(19,10,5));
