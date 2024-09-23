@@ -1,4 +1,4 @@
-// alert('Rhuan e Arthur Xavier')
+alert('Rhuan e Arthur Xavier')
 function soma(num1,num2){
 return num1+num2;
 }
