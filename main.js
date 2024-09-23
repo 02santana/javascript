@@ -10,5 +10,4 @@ console.log()
 function areaQuadrado(lado){
 return soma(lado, lado);
 }
-const lado = 5;
-console.log("A área do quadrado é: " + areaQuadrado(lado));
+
