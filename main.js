@@ -19,3 +19,6 @@ let areaTrapezio=function(basemaior,basemenor,altura){
 return (basemaior+basemenor)*altura/2;
 }
 console.log(areaTrapezio(19,10,5));
+
+let rhuan=prompt('Escolha 3 Números para obter uma média:')
+document write()
