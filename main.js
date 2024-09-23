@@ -23,6 +23,4 @@ console.log(areaTrapezio(19,10,5));
 let rhuan=prompt('Escolha 3 Números para obter uma média:');
 document.write('1,2,3');
 
-let rhuan=function(v1,v2,v3){
- return (v1+v2+v3)/3;
-}
+
