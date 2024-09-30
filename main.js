@@ -33,4 +33,9 @@
 // }
 // document.write(media(num1,num2,num3));
 
- let estado= ['Paraná','São Paulo','Minas Gerais','Rio de Janeiro','Santa Catarina','Rio Grande do Sul','Espírito Santo','Mato Grosso Do Sul','Goiás','Mato Grosso','Rondônia','Acre','Amazonas','Roraima','Pará','Amapá','Tocantins','Maranhão','Piauí','Bahia','Sergipe','Alagoas','Pernambuco','Paraíba','Rio Grande do Norte','Ceará','Distrito Federal']
+ let estados= ['Paraná','São Paulo','Minas Gerais','Rio de Janeiro','Santa Catarina','Rio Grande do Sul','Espírito Santo','Mato Grosso Do Sul','Goiás','Mato Grosso','Rondônia','Acre','Amazonas','Roraima','Pará','Amapá','Tocantins','Maranhão','Piauí','Bahia','Sergipe','Alagoas','Pernambuco','Paraíba','Rio Grande do Norte','Ceará','Distrito Federal']
+ 
+ while(i<10){
+    console.log(i);
+    i=(+1)
+}
