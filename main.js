@@ -41,3 +41,11 @@
     console.log(estados[i]);
     i++;
 }
+
+let idade= 16;
+if (idade>14){
+    console.log('já pode beber');
+}
+else{
+    console.log('ilegal beber')
+}
