@@ -23,4 +23,14 @@ console.log(areaTrapezio(19,10,5));
 let rhuan=prompt('Escolha 3 Números para obter uma média:');
 document.write('1,2,3');
 
+let num1= parseInt(prompt('1'));
+let num2= parseInt(prompt('2'));
+let num3= parseInt(prompt('3'));
 
+function media(x,y,z){
+    return(x+y+z)/3;
+
+}
+document.write(media(num1,num2,num3));
+
+let estado= ['Paraná','São Paulo','Minas Gerais','Rio de Janeiro']
