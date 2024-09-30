@@ -43,7 +43,7 @@
 }
 
 let idade= 16;
-if (idade>14){
+if (idade>17){
     console.log('já pode beber');
 }
 else{
