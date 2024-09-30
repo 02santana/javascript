@@ -35,6 +35,7 @@
 
  let estados= ['Paraná','São Paulo','Minas Gerais','Rio de Janeiro','Santa Catarina','Rio Grande do Sul','Espírito Santo','Mato Grosso Do Sul','Goiás','Mato Grosso','Rondônia','Acre','Amazonas','Roraima','Pará','Amapá','Tocantins','Maranhão','Piauí','Bahia','Sergipe','Alagoas','Pernambuco','Paraíba','Rio Grande do Norte','Ceará','Distrito Federal']
  
+ let i=0;
  while (i<estados.length){
     console.log(i);
     i=(+1);
